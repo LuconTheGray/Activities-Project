@@ -10,10 +10,8 @@ h1 {
     margin-left: 25px;
 }
 
-background-color {
-    background-color: black
-}
-
-text {
-    font color: darkorange
+body {
+    background-color: #101820;
+    color: rgb(255, 255, 255);
+    font-family: 'Poppins', sans-serif;
 }
