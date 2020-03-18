@@ -9,3 +9,11 @@ h1 {
 .whitespace {
     margin-left: 25px;
 }
+
+background-color {
+    background-color: black
+}
+
+text {
+    font color: darkorange
+}
