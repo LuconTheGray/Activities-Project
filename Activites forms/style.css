@@ -1,5 +1,5 @@
 .divide {
-    border-bottom: 1px solid black;
+    border-bottom:7px solid rgb(255, 182, 18);
 }
 
 h1 {
@@ -13,4 +13,8 @@ h1 {
 body {
     background-color: #101820;
     color: rgb(255, 182, 18);
+}
+
+img {
+    padding-left: 10em; 
 }
